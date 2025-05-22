@@ -1,0 +1,6 @@
+*.class
+*.log
+*.tmp
+__MACOSX/
+.DS_Store
+*.pkt~
